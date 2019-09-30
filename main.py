@@ -22,7 +22,8 @@ with smtplib.SMTP(host="smtp.mailgun.org",port=587) as smtp:
     smtp.login("youremail@yourmail.com","yourpassword") #dontshare your password
     smtp.send_message(message)
     print("Send")
-
+    
+##server.quit()
 
 
 
