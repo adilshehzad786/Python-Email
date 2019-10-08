@@ -2,7 +2,7 @@
 Free Python Email tools
 <h1>Python Email With File Sharing</h1>
 
-<p>Python Email Allows You to Share Emails With Attachments With People</p>
+<p>Python Email Allows You to Share Emails (With any File Attachments) With People</p>
 
 <h1>Python Email Using Classes & Functions</h1>
 
